@@ -1,1 +1,1 @@
-console
+console.log("meu jogo e o melhor")
